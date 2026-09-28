@@ -1,8 +1,4 @@
 <?php
-// =============================================
-// PHP: Funkcje - zadania
-// technikprogramista.pl
-// =============================================
 
 // 1. SUMA - obliczy i wyświetli sumę 2 liczb całkowitych
 function SUMA($a, $b) {
